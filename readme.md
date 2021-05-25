@@ -2,12 +2,12 @@
 
 
 
-##ORIGINAL AUTHOR
+## ORIGINAL AUTHOR
 underdark.io
 https://github.com/udark/underdark-android
 
 
-##INSTALLATION
+## INSTALLATION
 ```
 repositories {
     maven { url "https://jitpack.io" }
@@ -18,5 +18,5 @@ dependencies {
 }
 ```
 
-##Disclaimer
+## Disclaimer
 This repository contains original source code from the author. I did not do any modification to the library.
